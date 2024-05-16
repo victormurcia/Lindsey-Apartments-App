@@ -1,0 +1,71 @@
+Source,Target,Value,Address,Price,num_Bedrooms,num_Bathrooms,SqFt,City,State
+Initial Pool,Shortlisted,5,1134 Doe Blossom Ln,2350,3,2.5,2356,Apex,NC
+Initial Pool,Shortlisted,5,689 Maple Grove Way,2499,3,NaN,NaN,Apex,NC
+Initial Pool,Shortlisted,5,153 Nairn St,2700,5,3,2543,Fayetteville,NC
+Initial Pool,Shortlisted,5,930 Greenbriar Dr,2600,4,2.5,2815,Vass,NC
+Initial Pool,Shortlisted,5,1605 Westlawn Ave,2200,4,2.5,2016,Fayetteville,NC
+Initial Pool,Shortlisted,5,1720 Longleaf Dr E,2200,3,2,2310,Pinehurst,NC
+Initial Pool,Shortlisted,5,53 Village Edge Dr,1875,3,2.5,1812,Lillington,NC
+Initial Pool,Shortlisted,5,118 Beautiful Ln,2400,4,2.5,2188,Sanford,NC
+Initial Pool,Shortlisted,5,103 Bonnie Brook Ct,3200,4,3,2620,Aberdeen,NC
+Initial Pool,Shortlisted,5,6464 Calloway Rd,2400,4,2.5,2114,Aberdeen,NC
+Initial Pool,Shortlisted,5,215 Plantation Dr,3500,3,2.5,NaN,Southern Pines,NC
+Initial Pool,Shortlisted,5,144 Moultrie Ln,3100,5,3,2950, Aberdeen,NC
+Initial Pool,Shortlisted,5,1000 Robinwood Rd,2300,3,2.5,2000,Aberdeen,NC
+Initial Pool,Shortlisted,5,905 Winds Way,3000,4,2.5,2563,Aberdeen,NC
+Initial Pool,Shortlisted,5,324 Pine Laurel,2600,4,3,2090, Carthage,NC
+Initial Pool,Shortlisted,5,70 Cardinal Dr,2475,3,2.5,2147,Whispering Pines,NC
+Initial Pool,Shortlisted,5,74 Pine Lake Dr,3500,4,3.5,2405,Whispering Pines, NC
+Initial Pool,Shortlisted,5,6641 Carriage Crossing Rd,2400,4,2.5,2788, Hope Mills, NC
+Initial Pool,Shortlisted,5,295 Parrish Ln,2900,3,2.5,2270, Carthage, NC
+Initial Pool,Shortlisted,5,550 Avenue Of The Carolinas,2750,4,3,2568,Carthage,NC
+Initial Pool,Shortlisted,5,270 McKenzie Rd W UNIT 53,3175,3,2.5,1950, Pinehurst,NC
+Initial Pool,Shortlisted,5,350 Wheeling Dr,2800,5,3.5,2600, Pinehurst,NC
+Initial Pool,Shortlisted,5,3369 Carolina Way,2750,4,3,2950, Sanford,NC
+Initial Pool,Not Shortlisted,5,619 Muscadine Ln,2900,4,3,NaN,Aberdeen,NC
+Shortlisted,Visited,5,1134 Doe Blossom Ln,2350,3,2.5,2356,Apex,NC
+Shortlisted,Visited,5,689 Maple Grove Way,2499,3,NaN,NaN,Apex,NC
+Shortlisted,Visited,5,153 Nairn St,2700,5,3,2543,Fayetteville,NC
+Shortlisted,Visited,5,930 Greenbriar Dr,2600,4,2.5,2815,Vass,NC
+Shortlisted,Visited,5,1605 Westlawn Ave,2200,4,2.5,2016,Fayetteville,NC
+Shortlisted,Visited,5,1720 Longleaf Dr E,2200,3,2,2310,Pinehurst,NC
+Shortlisted,Visited,5,53 Village Edge Dr,1875,3,2.5,1812,Lillington,NC
+Shortlisted,Visited,5,118 Beautiful Ln,2400,4,2.5,2188,Sanford,NC
+Shortlisted,Visited,5,103 Bonnie Brook Ct,3200,4,3,2620,Aberdeen,NC
+Shortlisted,Visited,5,6464 Calloway Rd,2400,4,2.5,2114,Aberdeen,NC
+Shortlisted,Visited,5,215 Plantation Dr,3500,3,2.5,NaN,Southern Pines,NC
+Shortlisted,Visited,5,144 Moultrie Ln,3100,5,3,2950, Aberdeen,NC
+Shortlisted,Visited,5,1000 Robinwood Rd,2300,3,2.5,2000, Aberdeen,NC
+Shortlisted,Visited,5,905 Winds Way,3000,4,2.5,2563, Aberdeen,NC
+Shortlisted,Visited,5,324 Pine Laurel,2600,4,3,2090, Carthage,NC
+Shortlisted,Visited,5,70 Cardinal Dr,2475,3,2.5,2147,Whispering Pines,NC
+Shortlisted,Visited,5,74 Pine Lake Dr,3500,4,3.5,2405,Whispering Pines,NC
+Shortlisted,Visited,5,6641 Carriage Crossing Rd,2400,4,2.5,2788, Hope Mills, NC
+Shortlisted,Visited,5,295 Parrish Ln,2900,3,2.5,2270, Carthage, NC
+Shortlisted,Visited,5,550 Avenue Of The Carolinas,2750,4,3,2568,Carthage,NC
+Shortlisted,Visited,5,270 McKenzie Rd W UNIT 53,3175,3,2.5,1950, Pinehurst,NC
+Shortlisted,Visited,5,350 Wheeling Dr,2800,5,3.5,2600, Pinehurst,NC
+Shortlisted,Not Visited,5,3369 Carolina Way,2750,4,3,2950, Sanford,NC
+Visited,Made Offer,5,1134 Doe Blossom Ln,2350,3,2.5,2356,Apex,NC
+Visited,Made Offer,5,689 Maple Grove Way,2499,3,NaN,NaN,Apex,NC
+Visited,Made Offer,5,153 Nairn St,2700,5,3,2543,Fayetteville,NC
+Visited,Made Offer,5,930 Greenbriar Dr,2600,4,2.5,2815,Vass,NC
+Visited,Made Offer,5,1605 Westlawn Ave,2200,4,2.5,2016,Fayetteville,NC
+Visited,Made Offer,5,1720 Longleaf Dr E,2200,3,2,2310,Pinehurst,NC
+Visited,Made Offer,5,53 Village Edge Dr,1875,3,2.5,1812,Lillington,NC
+Visited,Made Offer,5,118 Beautiful Ln,2400,4,2.5,2188,Sanford,NC
+Visited,Made Offer,5,103 Bonnie Brook Ct,3200,4,3,2620,Aberdeen,NC
+Visited,Made Offer,5,6464 Calloway Rd,2400,4,2.5,2114,Aberdeen,NC
+Visited,Made Offer,5,215 Plantation Dr,3500,3,2.5,NaN,Southern Pines,NC
+Visited,Made Offer,5,144 Moultrie Ln,3100,5,3,2950, Aberdeen,NC
+Visited,Made Offer,5,1000 Robinwood Rd,2300,3,2.5,2000, Aberdeen,NC
+Visited,Made Offer,5,905 Winds Way,3000,4,2.5,2563, Aberdeen,NC
+Visited,Made Offer,5,324 Pine Laurel,2600,4,3,2090, Carthage,NC
+Visited,Made Offer,5,70 Cardinal Dr,2475,3,2.5,2147,Whispering Pines,NC
+Visited,Made Offer,5,74 Pine Lake Dr,3500,4,3.5,2405,Whispering Pines,NC
+Visited,Made Offer,5,6641 Carriage Crossing Rd,2400,4,2.5,2788, Hope Mills, NC
+Visited,Made Offer,5,295 Parrish Ln,2900,3,2.5,2270, Carthage, NC
+Visited,Made Offer,5,550 Avenue Of The Carolinas,2750,4,3,2568,Carthage,NC
+Visited,Made Offer,5,270 McKenzie Rd W UNIT 53,3175,3,2.5,1950, Pinehurst,NC
+Visited,No Offer,5,350 Wheeling Dr,2800,5,3.5,2600, Pinehurst,NC
+Made Offer,Moving In,5,1134 Doe Blossom Ln,2350,3,2.5,2356,Apex,NC
