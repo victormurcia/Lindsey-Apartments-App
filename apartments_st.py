@@ -8,7 +8,7 @@ Created on Thu May 16 13:25:07 2024
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
-import matplotlib.cm as cm
+import matplotlib.cm
 from matplotlib.colors import to_hex
 import plotly.express as px
 import folium
@@ -41,7 +41,7 @@ values = data['Value']
 addresses = data['Address']
 
 # Define the Viridis color palette
-viridis = cm.get_cmap('viridis')
+viridis = matplotlib.cm.get_cmap('viridis')
 node_colors = [to_hex(viridis(i / len(nodes))) for i in range(len(nodes))]
 link_colors = [to_hex(viridis(node_indices[source] / len(nodes))) for source in data['Source']]
 
