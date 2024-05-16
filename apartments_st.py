@@ -41,7 +41,7 @@ values = data['Value']
 addresses = data['Address']
 
 # Define the Viridis color palette
-viridis = cm.colormaps['viridis']
+viridis = cm.get_cmap('viridis')
 node_colors = [to_hex(viridis(i / len(nodes))) for i in range(len(nodes))]
 link_colors = [to_hex(viridis(node_indices[source] / len(nodes))) for source in data['Source']]
 
