@@ -42,8 +42,8 @@ addresses = data['Address']
 
 # Define the Viridis color palette
 viridis = cm.get_cmap('viridis', len(nodes))
-node_colors = [to_hex(viridis(i)) for i in range(len(nodes))]
-link_colors = [to_hex(viridis(node_indices[source])) for source in data['Source']]
+node_colors = [to_hex(viridis(i / len(nodes))) for i in range(len(nodes))]
+link_colors = [to_hex(viridis(node_indices[source] / len(nodes))) for source in data['Source']]
 
 # Create the Sankey diagram
 fig = go.Figure(data=[go.Sankey(
