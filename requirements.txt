@@ -1,6 +1,6 @@
 pandas
 plotly
 streamlit
-matplotlib
+matplotlib == 3.9.0 
 folium
 streamlit_folium
