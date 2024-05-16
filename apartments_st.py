@@ -8,7 +8,7 @@ Created on Thu May 16 13:25:07 2024
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
-from matplotlib import cm
+import matplotlib.cm as cm
 from matplotlib.colors import to_hex
 import plotly.express as px
 import folium
